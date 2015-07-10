@@ -1,2 +1,3 @@
 # halo-git
-first time
+first time use github
+let's start from here
